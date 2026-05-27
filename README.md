@@ -1,36 +1,82 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=REDIZ47&fontSize=58&fontColor=ffffff&stroke=ffffff&strokeWidth=0.6&animation=twinkling&colorA=0f172a&colorB=111827"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=42&pause=2000&color=FFFFFF&center=true&vCenter=true&width=350&height=65&lines=REDIZ47"/>
+
+<sub>
+Frontend Developer • UI Engineer • Motion Design
+</sub>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1400&color=FFFFFF&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Frontend+Developer+%E2%80%A2+UI+Engineer;Building+Modern+Interactive+Experiences;Creative+Frontend+%2B+Motion+Design" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=161B22"/>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,threejs,tailwind,figma,git,vscode,nodejs&theme=dark" height="44"/>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,threejs,tailwind,figma,git,vscode,nodejs&theme=dark" />
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rediz47&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=ffffff"/>
+
+</td>
+
+<td>
+
+<img src="https://streak-stats.demolab.com?user=Rediz47&theme=transparent&hide_border=true&background=00000000&stroke=ffffff15&ring=ffffff&fire=ffffff&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/TRINIB/trinib/main/.images/marquee.svg"/>
+
+<br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rediz47&bg_color=0D1117&color=8b949e&line=ffffff&point=ffffff&area=true&hide_border=true&area_color=1a1f27"/>
 
 <br/><br/>
 
-<img width="96%" src="https://raw.githubusercontent.com/TRINIB/trinib/main/.images/marquee.svg"/>
+<table>
+<tr>
+<td align="center" width="33%">
 
-<br/><br/>
+### Stack
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Rediz47&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=94A3B8&icon_color=ffffff&ring_color=ffffff"/>
+React  
+Next.js  
+TypeScript  
+Three.js  
 
-<img height="180" src="https://streak-stats.demolab.com?user=Rediz47&theme=transparent&hide_border=true&background=00000000&stroke=ffffff20&ring=ffffff&fire=ffffff&currStreakLabel=94A3B8&sideLabels=94A3B8&currStreakNum=ffffff&sideNums=ffffff&dates=64748B"/>
+</td>
 
-<br/><br/>
+<td align="center" width="33%">
 
-<img width="96%" src="https://github-profile-trophy.vercel.app/?username=Rediz47&theme=onestar&no-frame=true&row=1&column=6&margin-w=15&margin-h=15"/>
+### Focus
 
-<br/><br/>
+UI/UX  
+Motion  
+3D Interfaces  
+SaaS  
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rediz47&bg_color=0D1117&color=94A3B8&line=ffffff&point=ffffff&area=true&hide_border=true&area_color=1E293B"/>
+</td>
 
-<br/><br/>
+<td align="center" width="33%">
 
-<img width="70%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+### Building
+
+VisageX  
+Interactive UI  
+Creative Frontend  
+
+</td>
+</tr>
+</table>
 
 <br/><br/>
 
@@ -48,6 +94,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Rediz47&style=for-the-badge&color=white"/>
+<img src="https://komarev.com/ghpvc/?username=Rediz47&style=flat-square&color=white"/>
 
 </div>

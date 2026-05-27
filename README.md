@@ -22,8 +22,7 @@
 ### 📊 Engineering Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rediz47&show_icons=true&bg_color=161b22&title_color=ffffff&text_color=8b949e&icon_color=ffffff&hide_border=true&border_radius=15" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Rediz47&background=161b22&ring=ffffff&fire=ffffff&currStreakLabel=8b949e&currStreakNum=ffffff&sideLabels=8b949e&sideNums=ffffff&dates=8b949e&hide_border=true&border_radius=15" width="48%" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Rediz47&theme=dark&background=161b22&ring=ffffff&fire=ffffff&currStreakLabel=8b949e&currStreakNum=ffffff&sideLabels=8b949e&sideNums=ffffff&dates=8b949e&hide_border=true&border_radius=15" width="60%" alt="Streak Stats" />
 </p>
 
 <br/>

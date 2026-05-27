@@ -34,6 +34,28 @@ I bridge the gap between design and engineering. Here are the tools I use to bri
 
 ---
 
+## 🚀 Engineering Focus & DNA
+
+<div align="center">
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="33%" align="center" style="background: #1a1b26; padding: 20px; border-radius: 16px; border: 1px solid #232433;">
+      <samp>🌌 <b>CURRENT FOCUS</b><br/><br/><font color="#0FF2A5">Pushing boundaries of interactive 3D web experiences & WebGL frameworks.</font></samp>
+    </td>
+    <td width="2%" style="border: none;"></td>
+    <td width="33%" align="center" style="background: #1a1b26; padding: 20px; border-radius: 16px; border: 1px solid #232433;">
+      <samp>💬 <b>ASK ME ABOUT</b><br/><br/><font color="#2ac3de">UI/UX Micro-interactions, Creative Coding, & 3D Optimization.</font></samp>
+    </td>
+    <td width="2%" style="border: none;"></td>
+    <td width="32%" align="center" style="background: #1a1b26; padding: 20px; border-radius: 16px; border: 1px solid #232433;">
+      <samp>🎯 <b>CORE VALUE</b><br/><br/><font color="#ff9e64">Writing highly optimized, clean, and modular production-ready architecture.</font></samp>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
 ## 📈 Dev Metrics & Activity
 
 <div align="center">
@@ -59,11 +81,6 @@ I bridge the gap between design and engineering. Here are the tools I use to bri
 
 ---
 
-## ⚡ Secret Dev Sauce
-```javascript
-const rediz47 = {
-  pronouns: "He / Him",
-  code: ["TypeScript", "React", "Next.js", "WebGL"],
-  askMeAbout: ["UI/UX Micro-interactions", "3D Web Optimization", "State Management"],
-  currentFocus: "Pushing the boundaries of interactive 3D web experiences"
-};
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rediz47&color=0FF2A5&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>

@@ -3,9 +3,9 @@
 <table>
 <tr>
 
-<td width="42%" align="left">
+<td width="44%" align="left">
 
-# REDIZ47
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=800&size=34&pause=2500&color=FFFFFF&vCenter=true&width=260&height=45&lines=REDIZ47"/>
 
 ### Frontend Developer  
 ### UI Engineer
@@ -14,20 +14,20 @@
 
 <sub>
 
-Building modern interactive experiences with  
-clean motion, structured interfaces, and  
-creative frontend engineering.
+Building premium interactive interfaces,  
+motion-driven experiences, and modern  
+frontend systems with React & Next.js.
 
 </sub>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,threejs,tailwind,figma&theme=dark" height="38"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,threejs,tailwind,figma&theme=dark" height="36"/>
 
 <br/><br/>
 
 <a href="https://github.com/Rediz47">
-<img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://lukas-portfolio2026.netlify.app/">
@@ -35,16 +35,16 @@ creative frontend engineering.
 </a>
 
 <a href="mailto:lukachoxeli80@gmail.com">
-<img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 </td>
 
-<td width="58%" align="center">
+<td width="56%" align="center">
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Rediz47&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=8B949E&icon_color=ffffff"/>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=Rediz47&theme=transparent&hide_border=true&background=00000000&stroke=ffffff10&ring=ffffff&fire=ffffff&currStreakLabel=8B949E&sideLabels=8B949E&currStreakNum=ffffff&sideNums=ffffff&dates=6E7681"/>
+<img width="100%" src="https://streak-stats.demolab.com?user=Rediz47&theme=transparent&hide_border=true&background=00000000&stroke=ffffff08&ring=ffffff&fire=ffffff&currStreakLabel=8B949E&sideLabels=8B949E&currStreakNum=ffffff&sideNums=ffffff&dates=6E7681"/>
 
 </td>
 
@@ -53,14 +53,14 @@ creative frontend engineering.
 
 <br/>
 
-<img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&color=2A2F36"/>
 
-<br/><br/>
+<br/>
 
 <table>
 <tr>
 
-<td width="33%" align="center">
+<td width="33%" align="left">
 
 ### Stack
 
@@ -71,25 +71,25 @@ Three.js
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" align="left">
 
 ### Focus
 
 Motion UI  
+Interactive UX  
 Creative Frontend  
-Modern UX  
-SaaS  
+SaaS Interfaces  
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" align="left">
 
 ### Current
 
 VisageX  
-Interactive Systems  
-3D Interfaces  
-Animations  
+3D Systems  
+Modern Dashboards  
+UI Animation  
 
 </td>
 
@@ -98,6 +98,12 @@ Animations
 
 <br/>
 
+<img width="100%" src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg"/>
+
+<br/>
+
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rediz47&bg_color=0D1117&color=8B949E&line=ffffff&point=ffffff&area=true&hide_border=true&area_color=1B1F24"/>
+
+<br/>
 
 </div>

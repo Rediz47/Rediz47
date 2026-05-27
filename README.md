@@ -1,53 +1,55 @@
 <div align="center">
 
-# Rediz47
-### Frontend Developer & UI Engineer
-<p>Crafting responsive, beautiful, and intuitive user interfaces.</p>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=ffffff&height=140&section=header&text=Rediz47&fontSize=55&fontColor=1d1d1f&animation=fadeIn" width="100%" />
 
-<br>
+<br/>
 
-<a href="https://github.com/Rediz47">
-  <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://your-portfolio-link.com">
-  <img src="https://img.shields.io/badge/Portfolio-f5f5f7?style=for-the-badge&logo=vercel&logoColor=1d1d1f&labelColor=f5f5f7&color=f5f5f7" alt="Portfolio" />
-</a>
-<a href="mailto:lukachoxeli80@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+### 🏛️ UI Engineer & Frontend Developer
+**Sculpting interactive user experiences with clean, structured architectural layouts.**
 
-</div>
+<br/>
+
+<a href="https://github.com/Rediz47"><img src="https://img.shields.io/badge/GitHub-1d1d1f?style=for-the-badge&logo=github&logoColor=white" style="border-radius: 20px;" /></a>
+<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-f5f5f7?style=for-the-badge&logo=vercel&logoColor=1d1d1f" style="border-radius: 20px;" /></a>
+<a href="mailto:lukachoxeli80@gmail.com"><img src="https://img.shields.io/badge/Email-f5f5f7?style=for-the-badge&logo=gmail&logoColor=b31100" style="border-radius: 20px;" /></a>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1500&color=6e6e73&background=FFFFFF00&center=true&vCenter=true&width=600&height=40&lines=React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Designing+with+Figma+%26+Tailwind;Crafting+interactive+3D+spaces+with+Three.js" alt="Typing Intro" />
 
-<div align="center">
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" height="35" />
-  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" height="35" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="35" />
-  <img src="https://img.shields.io/badge/three.js-%23000000.svg?style=flat-square&logo=three.js&logoColor=white" alt="Three.js" height="35" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" height="35" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" alt="Figma" height="35" />
-</p>
-
-</div>
+<table width="100%" style="border-collapse: collapse; border: none; background: transparent;">
+  <tr>
+    <td align="center" style="border: 1px solid #e5e5ea; padding: 14px; border-radius: 24px; background: rgba(255,255,255,0.03);">
+      <img src="https://img.shields.io/badge/React-f5f5f7?style=flat&logo=react&logoColor=00d8ff" height="24" /> &nbsp;
+      <img src="https://img.shields.io/badge/Next.js-f5f5f7?style=flat&logo=nextdotjs&logoColor=000000" height="24" /> &nbsp;
+      <img src="https://img.shields.io/badge/TypeScript-f5f5f7?style=flat&logo=typescript&logoColor=007acc" height="24" /> &nbsp;
+      <img src="https://img.shields.io/badge/Three.js-f5f5f7?style=flat&logo=threedotjs&logoColor=000000" height="24" /> &nbsp;
+      <img src="https://img.shields.io/badge/Tailwind-f5f5f7?style=flat&logo=tailwind-css&logoColor=38b2ac" height="24" /> &nbsp;
+      <img src="https://img.shields.io/badge/Figma-f5f5f7?style=flat&logo=figma&logoColor=f24e1e" height="24" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 Developer Metrics
+### 📊 Engineering Analytics
 
-<div align="center">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="49%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Rediz47&show_icons=true&theme=calm&hide_border=false&border_radius=20&title_color=1d1d1f&text_color=6e6e73&icon_color=86868b&bg_color=f5f5f7" width="100%" />
+    </td>
+    <td width="2%"></td>
+    <td width="49%" align="center">
+      <img src="https://streak-stats.demolab.com?user=Rediz47&hide_border=false&border_radius=20&background=f5f5f7&stroke=e5e5ea&ring=1d1d1f&fire=ff453a&currStreakLabel=6e6e73&sideLabels=86868b&dates=86868b&sideNums=1d1d1f&currStreakNum=1d1d1f" width="100%" />
+    </td>
+  </tr>
+</table>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rediz47&show_icons=true&theme=nord&hide_border=false&border_radius=10&title_color=3B4252&text_color=4C566A&icon_color=88C0D0&bg_color=ECEFF4" />
-<img width="48%" src="https://streak-stats.demolab.com?user=Rediz47&hide_border=false&border_radius=10&background=ECEFF4&stroke=88C0D0&ring=88C0D0&fire=5E81AC&currStreakLabel=4C566A&sideLabels=4C566A&dates=4C566A&sideNums=3B4252&currStreakNum=3B4252" />
+<br/>
 
-<br><br>
-
-### Weekly Contribution Graph
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rediz47&hide_border=false&border_radius=10&bg_color=ECEFF4&line=5E81AC&point=5E81AC&color=4C566A&area=true&area_color=D8DEE9" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rediz47&hide_border=false&border_radius=20&bg_color=f5f5f7&line=1d1d1f&point=86868b&color=6e6e73&area=true&area_color=e8e8ed" width="100%" />
 
 </div>

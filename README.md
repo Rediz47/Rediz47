@@ -1,61 +1,57 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0a0a0a&fontColor=ffffff&fontSize=42&fontAlignY=35&text=REDIZ47&desc=Frontend+Developer+·+UI+Engineer&descAlignY=58&descSize=14&animation=fadeIn&fontAlignX=50" width="100%"/>
+
+<br/>
+
 <table><tr>
-<td width="46%" align="left" valign="top">
-<br/>
+<td width="45%" align="left" valign="middle">
 
-```
-REDIZ47
-```
-
-**Frontend Developer · UI Engineer**<br/>
-<sub>Tbilisi, Georgia</sub>
-
-<br/>
-
-<sub>Building premium interactive interfaces,<br/>
-motion-driven experiences, and modern<br/>
-frontend systems with React & Next.js.</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=13&pause=3000&color=FFFFFF&width=320&height=20&lines=Building+premium+interactive+interfaces.;Motion-driven+UX+%26+React+systems.;Open+to+new+projects+%E2%80%94+Tbilisi+GE." />
 
 <br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-060608?style=flat-square&logo=github&logoColor=white&labelColor=060608)](https://github.com/Rediz47)
-[![Portfolio](https://img.shields.io/badge/Portfolio-060608?style=flat-square&logo=vercel&logoColor=white&labelColor=060608)](https://lukas-portfolio2026.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-060608?style=flat-square&logo=gmail&logoColor=white&labelColor=060608)](mailto:lukachoxeli80@gmail.com)
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,threejs,tailwind,figma,nodejs,git&theme=dark&perline=4" />
+
+<br/><br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rediz47)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=white)](https://lukas-portfolio2026.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lukachoxeli80@gmail.com)
 
 </td>
-<td width="54%" align="center" valign="top">
+<td width="55%" align="center" valign="middle">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Rediz47&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&text_color=555555&icon_color=ffffff&bg_color=0d1117&card_width=400"/>
+
+<img width="100%" src="https://streak-stats.demolab.com?user=Rediz47&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=555555&dates=444444&sideNums=ffffff&currStreakNum=ffffff"/>
+
+</td>
+</tr></table>
+
 <br/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Rediz47&show_icons=true&theme=dark&hide_border=true&title_color=ffffff&text_color=555555&icon_color=ffffff&bg_color=060608"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=1a1a1a" width="100%"/>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=Rediz47&hide_border=true&background=060608&stroke=ffffff0a&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=444444&dates=333333&sideNums=ffffff&currStreakNum=ffffff"/>
+<br/>
 
-</td>
-</tr></table>
+| Stack | Focus | Current |
+|:--|:--|:--|
+| React · Next.js | Motion UI | VisageX |
+| TypeScript | Interactive UX | 3D Systems |
+| Three.js · WebGL | Creative Frontend | Dashboards |
+| Tailwind CSS | SaaS Interfaces | Open to work |
 
----
+<br/>
 
-![React](https://img.shields.io/badge/React-060608?style=flat-square&logo=react&logoColor=555555)
-![Next.js](https://img.shields.io/badge/Next.js-060608?style=flat-square&logo=nextdotjs&logoColor=555555)
-![TypeScript](https://img.shields.io/badge/TypeScript-060608?style=flat-square&logo=typescript&logoColor=555555)
-![Three.js](https://img.shields.io/badge/Three.js-060608?style=flat-square&logo=threedotjs&logoColor=555555)
-![Tailwind](https://img.shields.io/badge/Tailwind-060608?style=flat-square&logo=tailwindcss&logoColor=555555)
-![Figma](https://img.shields.io/badge/Figma-060608?style=flat-square&logo=figma&logoColor=555555)
-![Node.js](https://img.shields.io/badge/Node.js-060608?style=flat-square&logo=nodedotjs&logoColor=555555)
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=1a1a1a" width="100%"/>
 
----
+<br/>
 
-<table><tr>
-<td width="33%" align="left"><b>Stack</b><br/><sub>React · Next.js<br/>TypeScript · Three.js<br/>Tailwind CSS</sub></td>
-<td width="33%" align="left"><b>Focus</b><br/><sub>Motion UI<br/>Interactive UX<br/>SaaS Interfaces</sub></td>
-<td width="33%" align="left"><b>Current</b><br/><sub>VisageX<br/>3D Systems<br/>Open to work</sub></td>
-</tr></table>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rediz47&bg_color=0d1117&color=444444&line=ffffff&point=ffffff&area=true&hide_border=true&area_color=1a1a1a"/>
 
----
+<br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rediz47&bg_color=060608&color=333333&line=ffffff&point=ffffff&area=true&hide_border=true&area_color=111111"/>
-
-<sub>🟢 Available for new projects &nbsp;·&nbsp; 41.6938°N 44.8015°E · TBS</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0a0a0a&section=footer" width="100%"/>
 
 </div>
